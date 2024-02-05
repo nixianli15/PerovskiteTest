@@ -1,0 +1,11 @@
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.csproj.AssemblyReference.cache
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.csproj.SuggestedBindingRedirects.cache
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.exe.config
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.Camera.resources
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.FmLoading.resources
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.FmSet.resources
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.Form1.resources
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.Properties.Resources.resources
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.testForm.resources
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.csproj.GenerateResource.cache
+D:\work\program\PerovskiteTest\obj\Release\PerovskiteTest.csproj.CoreCompileInputs.cache
