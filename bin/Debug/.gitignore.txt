@@ -1,0 +1,6 @@
+*.dll
+bin/Debug/Libtorch
+bin/Debug/Openvino
+bin/Debug/Pretrained
+bin/Debug/TensorRT
+/
